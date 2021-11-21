@@ -1,0 +1,48 @@
+/*.App {
+   min-height: 100vh;
+  display: flex;
+  flex-direction:column;
+  align-items: stretch;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color:white;
+}*/
+
+.poo{
+  display: flex;
+  justify-content: center;
+
+  
+  
+
+}
+
+.fname{
+  display: flex;
+  justify-content: center;
+    color:#fbff00;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+   
+    
+}
+
+.Rest{
+  display: flex;
+  flex-direction: column;
+  margin-left: 750px;
+  color:#fbff00;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 20px;
+  border-color: black;
+
+
+
+
+
+}
+
+
+
